@@ -1,6 +1,7 @@
 
 # Kasm
-This project aims to deploy a Kasm workspace on Azure Vm to get access to the containerized desktops and applications.
+This project aims to deploy a Kasm workspace on Azure Vm to get access to the streaming containerized apps and desktops 
+
 
 To start this project 
 
