@@ -13,9 +13,12 @@ To start this project
 - **Storage**: 50GB(SSD)
 
 ###### 2.connect to the Azure VM by SSH public key 
-(link)
+-*1- ssh-keygen* in your terminal 
+-*2- store the public key to your Azure vm *
 
 ###### 3.Use **Install.sh** Bash file to install the Kasm on the VM 
+[Kasm installation ](https://github.com/rahafog/Kasm/blob/main/Install.sh)
+
 
 ###### 4.open the Kasm UI into the local browser by typing the Public-IP of your Azure VM
 
