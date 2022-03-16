@@ -15,7 +15,7 @@ To start this project
 
 
 ###### 2.connect to the Azure VM by SSH public key 
-- ssh-keygen *in your terminal* 
+- `ssh-keygen` *in your terminal* 
 - store your public key to Azure vm 
 
 ###### 3.Use **Install.sh** Bash file to install the Kasm on the VM 
