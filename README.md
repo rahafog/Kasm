@@ -4,13 +4,14 @@ This project aims to deploy a Kasm workspace on Azure Vm and to get access to th
 
 To start this project 
 
-**###### 1.Create a VM on Azure** 
+###### 1.Create a VM on Azure
 [Azure](https://azure.microsoft.com/en-us/)
 
-###### Minimum requierments:
+*Minimum requierments:*
 - **CPU**: 2 Cores
 - **Memory**: 4GB
 - **Storage**: 50GB(SSD)
+
 
 ###### 2.connect to the Azure VM by SSH public key 
 - ssh-keygen *in your terminal* 
