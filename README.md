@@ -4,7 +4,7 @@ This project aims to deploy a Kasm workspace on Azure Vm and to get access to th
 
 To start this project 
 
-###### 1.Create a VM on Azure  
+###### **1.Create a VM on Azure ** 
 [Azure](https://azure.microsoft.com/en-us/)
 
 ###### Minimum requierments:
